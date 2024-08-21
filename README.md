@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 I'm currently studying Computer Science at Carleton University 🎓  
+🎓 Studying Computer Science at Carleton University 🎓  
   
   Still trying to figure this thing out...
 
