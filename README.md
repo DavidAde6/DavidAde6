@@ -2,7 +2,6 @@
 
 🎓 Studying Computer Science at Carleton University 🎓  
   
-  Still trying to figure this thing out...
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/adeniyi-david/">
