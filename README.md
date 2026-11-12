@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 Studying Computer Science at Carleton University 🎓  
+Building in Private, eager to show some of my work upon request and hear feedback!
   
 
 <div id="badges">
